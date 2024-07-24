@@ -1,0 +1,14 @@
+[2024-07-24 08:53:56] Window: dist, Key: t
+[2024-07-24 08:53:57] Window: t - dist, Key: e
+[2024-07-24 08:53:59] Window: te - Resultados da Pesquisa em dist, Key: s
+[2024-07-24 08:54:00] Window: te - Resultados da Pesquisa em dist, Key: t
+[2024-07-24 08:54:00] Window: tes - Resultados da Pesquisa em dist, Key: e
+[2024-07-24 08:54:03] Window: teste - Resultados da Pesquisa em dist, Key: Key.backspace
+[2024-07-24 08:54:03] Window: test - Resultados da Pesquisa em dist, Key: Key.backspace
+[2024-07-24 08:54:03] Window: test - Resultados da Pesquisa em dist, Key: Key.backspace
+[2024-07-24 08:54:03] Window: test - Resultados da Pesquisa em dist, Key: Key.backspace
+[2024-07-24 08:54:03] Window: test - Resultados da Pesquisa em dist, Key: Key.backspace
+[2024-07-24 08:54:03] Window: test - Resultados da Pesquisa em dist, Key: Key.backspace
+[2024-07-24 08:54:03] Window: test - Resultados da Pesquisa em dist, Key: Key.backspace
+[2024-07-24 08:54:03] Window: test - Resultados da Pesquisa em dist, Key: Key.backspace
+[2024-07-24 08:54:03] Window: test - Resultados da Pesquisa em dist, Key: Key.backspace
